@@ -1,0 +1,10 @@
+{
+  "repository_url": "https://github.com/saiadg/IBM-continuous-delivery.git",
+  "artifact": "binary-20230214073032.tar.gz",
+  "build_number": 7,
+  "commit_sha": "c1e084ff5c6be8065b9f12322453371172c2aade",
+  "name": "java-spring-app-20230214063637868",
+  "pipeline_run_id": "1f86c97a-7ff1-4711-97a0-d4ebe5cc68ac",
+  "version": "v1",
+  "signature": "4d13cf0cd29ccc947d027b1e6a5c7672"
+}
